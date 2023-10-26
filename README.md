@@ -52,7 +52,7 @@ DEVELOPED BY : ARSHATHA P
 
 REG NO :212222230012
 
-
+```
 import numpy as np
 
 L=[int(i) for i in input().split()]
@@ -97,7 +97,7 @@ print("The Variance of arrival from feeder is %.3f "%var)
 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
-
+```
 
 # Output : 
 
