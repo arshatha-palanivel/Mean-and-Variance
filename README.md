@@ -49,6 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 DEVELOPED BY : ARSHATHA P
+
 REG NO :212222230012
 
 
@@ -77,7 +78,9 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output : 
-![](./01.png)
+
+![01](https://github.com/arshatha-palanivel/Mean-and-Variance/assets/118682484/ce25634c-7a24-4183-a11f-2a22c8e80d83)
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
